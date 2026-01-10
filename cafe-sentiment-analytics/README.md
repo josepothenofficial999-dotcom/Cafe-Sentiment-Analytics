@@ -65,8 +65,3 @@ Sentiment for business insights is derived from ratings:
 
 ---
 
-## 🚀 How to Run the Project
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install streamlit pandas
